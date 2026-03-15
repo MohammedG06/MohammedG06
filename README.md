@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Mohammed Guerchi 👋
 
-<!--
-**MohammedG06/MohammedG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at **Carleton University**
 
-Here are some ideas to get you started:
+I’m interested in software development, building interactive applications, and solving technical problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Adaptive Journaling App
+Swift, SwiftUI  
+Apple Swift Student Challenge project that adapts journaling prompts based on user engagement and mood patterns.
+
+### Roblox Game
+Lua, Roblox Studio  
+Custom Roblox game featuring player interaction mechanics and event-driven gameplay logic.
+
+---
+
+## Technologies
+
+**Languages:** Python, Java, C++, SQL, Lua, Swift  
+
+**Tools:** Git, SwiftUI, Roblox Studio, Xcode  
+
+**Concepts:** Data Structures, Algorithms, Object-Oriented Programming
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures
+- Software Engineering Design
+- Systems Programming
+
+---
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com/in/YOUR-LINK  
+Email: mohammedguerchi@gmail.com

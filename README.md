@@ -20,7 +20,7 @@ Custom Roblox game featuring player interaction mechanics and event-driven gamep
 
 ## Technologies
 
-**Languages:** Python, Java, C++, SQL, Lua, Swift  
+**Languages:** Python, Java, C, Lua, Swift  
 
 **Tools:** Git, SwiftUI, Roblox Studio, Xcode  
 
@@ -38,5 +38,5 @@ Custom Roblox game featuring player interaction mechanics and event-driven gamep
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
+LinkedIn: www.linkedin.com/in/mohammedguerchi 
 Email: mohammedguerchi@gmail.com

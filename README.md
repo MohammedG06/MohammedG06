@@ -8,7 +8,7 @@ I’m interested in software development, building interactive applications, and
 
 ## Projects
 
-### Adaptive Journaling App
+### Reflectly
 Swift, SwiftUI  
 Apple Swift Student Challenge project that adapts journaling prompts based on user engagement and mood patterns.
 
